@@ -38,7 +38,7 @@ body {
   font-family: "Lora", serif;
   background: url(img/bg-intro.png);
   background-size: cover;
-  width: 100%;
+  /* width: 100%; */
   height: auto;
 }
 /* navbar */
@@ -58,7 +58,7 @@ body {
   background-image: url(img/wedding.jpg);
   background-size: cover;
   background-position: center;
-  height: 500px;
+  height: 600px;
   text-align: center;
   position: relative;
   margin-top: 20px !important;
@@ -187,7 +187,7 @@ p {
 
 /* footer */
 footer {
-  padding: 40px;
+  padding: 50px;
   background: #34364a;
 }
 footer p {
